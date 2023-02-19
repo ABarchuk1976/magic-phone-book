@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/magic-phone-book/static/css/main.15252f6f.css",
-    "main.js": "/magic-phone-book/static/js/main.c0a84ae4.js",
+    "main.js": "/magic-phone-book/static/js/main.ac8b218e.js",
     "static/js/266.2ccce3e8.chunk.js": "/magic-phone-book/static/js/266.2ccce3e8.chunk.js",
     "static/js/79.91413bd8.chunk.js": "/magic-phone-book/static/js/79.91413bd8.chunk.js",
     "static/js/291.23980e96.chunk.js": "/magic-phone-book/static/js/291.23980e96.chunk.js",
     "static/js/729.17ff71cd.chunk.js": "/magic-phone-book/static/js/729.17ff71cd.chunk.js",
     "index.html": "/magic-phone-book/index.html",
     "main.15252f6f.css.map": "/magic-phone-book/static/css/main.15252f6f.css.map",
-    "main.c0a84ae4.js.map": "/magic-phone-book/static/js/main.c0a84ae4.js.map",
+    "main.ac8b218e.js.map": "/magic-phone-book/static/js/main.ac8b218e.js.map",
     "266.2ccce3e8.chunk.js.map": "/magic-phone-book/static/js/266.2ccce3e8.chunk.js.map",
     "79.91413bd8.chunk.js.map": "/magic-phone-book/static/js/79.91413bd8.chunk.js.map",
     "291.23980e96.chunk.js.map": "/magic-phone-book/static/js/291.23980e96.chunk.js.map",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.15252f6f.css",
-    "static/js/main.c0a84ae4.js"
+    "static/js/main.ac8b218e.js"
   ]
 }
